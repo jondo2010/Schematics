@@ -591,7 +591,7 @@ UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/linear-technolo
 
 [Win_1]
 Type="Control Panel"
-Loc="7 49 1363 689"
+Loc="143 56 1362 733"
 State=2
 Number=0
 

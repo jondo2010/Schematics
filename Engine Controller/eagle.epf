@@ -588,11 +588,12 @@ UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/Si7370DP.lbr"
 UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/ads.lbr"
 UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/SparkFun.lbr"
 UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/linear-technology-2.lbr"
+UsedLibrary="/home/john/Downloads/eagle-5.6.0/lbr/eagle-user-lib/switch-tact.lbr"
 
 [Win_1]
 Type="Control Panel"
 Loc="295 194 1514 871"
-State=2
+State=1
 Number=0
 
 [Desktop]
